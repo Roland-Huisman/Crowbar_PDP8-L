@@ -3,7 +3,7 @@
 This little project is a 5V crowbar power protection for the PDP8/L mini computer.
 The trip level is approximately 5.8V. Please note that some PDP8/L powers have design fault.
 At powering up the machine the power spikes. In my machine it spiked to 6.2V.
-This wil emmidiately trip this crowbar. So make sure that you modify this power.
+This will immediately trip this crowbar. So make sure that you modify the power first.
 
 For more info check this PDP8/L topic:
 http://www.vcfed.org/forum/showthread.php?72536-ITT-Satellite-navigation-system-6000-(PDP8-L)
