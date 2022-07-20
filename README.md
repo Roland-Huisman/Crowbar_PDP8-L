@@ -6,8 +6,7 @@ At powering up the machine the power spikes. In my machine it spiked to 6.2V.
 This will immediately trip this crowbar. So make sure that you modify the power first.
 
 For more info check this PDP8/L topic:
-http://www.vcfed.org/forum/showthread.php?72536-ITT-Satellite-navigation-system-6000-(PDP8-L)
-
+https://forum.vcfed.org/index.php?threads/itt-satellite-navigation-system-6000-pdp8-l.73718/
 
 
 
